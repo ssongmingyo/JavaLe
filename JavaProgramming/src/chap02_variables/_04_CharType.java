@@ -7,7 +7,7 @@ public class _04_CharType {
 		// 1. char 타입의 변수 선언 및 초기화
 		char ch1 = 'A';
 		
-		// 유니코드 앖을 알고 있으면 유니코드 값으로 저장 가능
+		// 유니코드 값을 알고 있으면 유니코드 값으로 저장 가능
 		char ch2 = 65;
 		
 		System.out.println(ch1);

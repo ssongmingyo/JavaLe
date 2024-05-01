@@ -12,7 +12,7 @@ public class _02_ScopeOfVariable {
 		// TODO Auto-generated method stub
 		// 1-1. 클래스 변수의 사용
 		num = 100;
-		System.out.Println(num);
+		System.out.println(num);
 		
 		// 2. 지역변수 선언
 		// main 메소드 안에서 선언되었기 때문에 main 메소드 중괄호에서만 접근해서 사용하거나 값을 저장할 수 있다. 

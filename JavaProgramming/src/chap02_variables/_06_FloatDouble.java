@@ -9,7 +9,7 @@ public class _06_FloatDouble {
 		float fNum1 = 3.14f;
 		float fNum2 = 3.14F;
 		
-		// 2. double 타입의 벼누 선언 및 초기화
+		// 2. double 타입의 변수 선언 및 초기화
 		double dNum1 = 89.1234;
 		double dNum2 = 11.984;
 		

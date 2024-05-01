@@ -14,4 +14,26 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/chap99_homework/homework02/Basic.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/homework/02.%20%EB%A9%94%EC%86%8C%EB%93%9C/Basic.java</locationURI>
+		</link>
+		<link>
+			<name>src/chap99_homework/homework02/ConcatString.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/homework/02.%20%EB%A9%94%EC%86%8C%EB%93%9C/ConcatString.java</locationURI>
+		</link>
+		<link>
+			<name>src/chap99_homework/homework02/Middle.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/homework/02.%20%EB%A9%94%EC%86%8C%EB%93%9C/Middle.java</locationURI>
+		</link>
+		<link>
+			<name>src/chap99_homework/homework02/RockScissPaper.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/homework/02.%20%EB%A9%94%EC%86%8C%EB%93%9C/RockScissPaper.java</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
